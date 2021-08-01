@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-between;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: palevioletred;
+    margin: 1px;
+}
